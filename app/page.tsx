@@ -126,7 +126,7 @@ export default function Home() {
             </a>
             <a
               className="button secondary"
-              href="https://linkedin.com/in/ricky-jostaga"
+              href="https://linkedin.com/in/ricky-jostaga-415515254/"
             >
               <Linkedin size={18} />
               LinkedIn
