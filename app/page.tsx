@@ -98,7 +98,7 @@ export default function Home() {
     <main>
       <header className="site-header">
         <a className="brand" href="#home" aria-label="Ricky Jostaga home">
-          RJ
+          R
         </a>
         <nav aria-label="Primary navigation">
           <a href="#projects">Projects</a>
