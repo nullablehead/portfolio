@@ -64,6 +64,38 @@ const projects = [
     ],
     palette: "water",
   },
+  {
+    name: "Kyogojo",
+    type: "Kyogojo Personnel App",
+    link: "https://play.google.com/store/apps/details?id=com.kyogojo.app",
+    icon: "/icon-kyogojo.webp",
+    summary:
+      "Kyogojo App is designed exclusively for personnel use, revolutionizing the way we manage water service operations. With a robust set of features, Kyogojo App empowers personnel to streamline processes, enhance decision-making, and ensure exceptional water service delivery.",
+    contribution:
+      "Developed and maintained internal operational features for utility personnel, including service request management, customer account workflows, billing operations, REST API integrations, offline handling, and performance optimizations for daily field operations.",
+    impact: [
+      "Personnel operations",
+      "Utility management",
+      "Published Android app",
+    ],
+    palette: "red",
+  },
+  {
+    name: "Kyogojo Meter Reader",
+    type: "Kyogojo Water Usage Indicator",
+    link: "https://play.google.com/store/apps/details?id=com.kyogojo.meterreader",
+    icon: "/icon-kyogojo-meter-reader.webp",
+    summary:
+      "Kyogojo Meter Reader App is a specialized app designed exclusively for water meter indication. It's the perfect tool for water meter readers and professionals who need a precise and efficient way to indicate water usage. With Kyogojo, you gain complete control over your water meter readings, ensuring accuracy and simplicity in the process.",
+    contribution:
+      "Developed meter reading workflows with camera-based reading capture, offline data synchronization, REST API integration, validation logic, and performance optimizations for reliable field data collection.",
+    impact: [
+      "Field data collection",
+      "Offline synchronization",
+      "Published Android app",
+    ],
+    palette: "red",
+  },
 ];
 
 const skills = [
