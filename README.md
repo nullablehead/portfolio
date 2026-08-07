@@ -1,6 +1,6 @@
 # Ricky Jostaga Portfolio
 
-Professional portfolio for Ricky Jostaga, a Flutter Mobile Developer based in the Philippines.
+Professional portfolio for Ricky Jostaga, a  Mobile Developer based in the Philippines.
 
 ## Tech Stack
 

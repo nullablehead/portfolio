@@ -143,7 +143,7 @@ export default function Home() {
         <div className="hero-copy">
           <p className="eyebrow">
             <Smartphone size={16} />
-            Flutter Mobile Developer
+            Mobile Developer
           </p>
           <h1>Ricky Jostaga</h1>
           <p className="hero-lede">
